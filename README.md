@@ -1,0 +1,1 @@
+¡Bienvenido al Encriptador de Texto! Este sitio web te permite encriptar y desencriptar texto . Es una herramienta útil para proteger tu información y garantizar que solo las personas autorizadas puedan leer tu contenido.
